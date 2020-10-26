@@ -3,6 +3,21 @@
 I’m still currently working on it ;)
 
 
+#### Main Skills
+- CSS
+
+- HTML
+
+- AngularJS
+- Angular
+- React
+- VueJS
+- NodeJS
+
+- Java
+- Javascript
+- Typescript
+
 
 <!--
 **aldo-maciel/aldo-maciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
