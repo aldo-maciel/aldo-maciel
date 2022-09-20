@@ -12,7 +12,7 @@ DevCard
 <a href="https://app.daily.dev/aldomaciel"><img src="https://api.daily.dev/devcards/5965f8d615cb4c57a925162897d040df.png?r=w60" width="400" alt="Aldo's Dev Card"/></a>
 
 
-[Daily.dev](https://api.daily.dev/devcards/5965f8d615cb4c57a925162897d040df.png?r=w60)
+[Daily.dev](https://app.daily.dev/aldomaciel)
 
 
 #### Main Skills
